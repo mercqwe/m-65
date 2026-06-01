@@ -38,7 +38,7 @@ M-65/
 │   └── programs/     ← yazılacak assembly programları
 │       └── ornek.m65
 └── bin/
-    ├── mirac65       ← emülatör binary
+    ├── m65       ← emülatör binary
     └── m65asm        ← assembler binary (ileride)
 ```
 
