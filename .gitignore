@@ -1,0 +1,9 @@
+# Derlenmiş binary
+bin/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
