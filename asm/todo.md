@@ -118,6 +118,7 @@ Assembler `#` varlığına göre opcode seçer:
 
 # İleride: sadece makine kodu üret, çalıştırma
 ./bin/m65asm asm/programs/ornek.m65 --compile-only
+./bin/m65 --load asm/compiled/ornek.bin
 ```
 
 ---
